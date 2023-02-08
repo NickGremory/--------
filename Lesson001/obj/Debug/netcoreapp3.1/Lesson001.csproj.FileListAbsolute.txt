@@ -1,0 +1,14 @@
+C:\Users\5064394\Desktop\Обучение\Lesson001\bin\Debug\netcoreapp3.1\Lesson001.exe
+C:\Users\5064394\Desktop\Обучение\Lesson001\bin\Debug\netcoreapp3.1\Lesson001.deps.json
+C:\Users\5064394\Desktop\Обучение\Lesson001\bin\Debug\netcoreapp3.1\Lesson001.runtimeconfig.json
+C:\Users\5064394\Desktop\Обучение\Lesson001\bin\Debug\netcoreapp3.1\Lesson001.runtimeconfig.dev.json
+C:\Users\5064394\Desktop\Обучение\Lesson001\bin\Debug\netcoreapp3.1\Lesson001.dll
+C:\Users\5064394\Desktop\Обучение\Lesson001\bin\Debug\netcoreapp3.1\Lesson001.pdb
+C:\Users\5064394\Desktop\Обучение\Lesson001\obj\Debug\netcoreapp3.1\Lesson001.csproj.AssemblyReference.cache
+C:\Users\5064394\Desktop\Обучение\Lesson001\obj\Debug\netcoreapp3.1\Lesson001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\5064394\Desktop\Обучение\Lesson001\obj\Debug\netcoreapp3.1\Lesson001.AssemblyInfoInputs.cache
+C:\Users\5064394\Desktop\Обучение\Lesson001\obj\Debug\netcoreapp3.1\Lesson001.AssemblyInfo.cs
+C:\Users\5064394\Desktop\Обучение\Lesson001\obj\Debug\netcoreapp3.1\Lesson001.csproj.CoreCompileInputs.cache
+C:\Users\5064394\Desktop\Обучение\Lesson001\obj\Debug\netcoreapp3.1\Lesson001.dll
+C:\Users\5064394\Desktop\Обучение\Lesson001\obj\Debug\netcoreapp3.1\Lesson001.pdb
+C:\Users\5064394\Desktop\Обучение\Lesson001\obj\Debug\netcoreapp3.1\Lesson001.genruntimeconfig.cache
